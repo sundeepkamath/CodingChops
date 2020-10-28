@@ -111,6 +111,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 
 # needed for sitemap.xml file only
 url: sundeepkamath.github.io
-baseurl: /CodingChops
+baseurl: /codingchops
 
 github: [metadata]
