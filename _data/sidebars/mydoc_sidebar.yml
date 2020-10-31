@@ -24,6 +24,7 @@ entries:
     folderitems:
 
       - title: Algorithms
+        url: /algorithms.html
         output: web, pdf
 
         subfolders:

@@ -8,7 +8,7 @@ tags: [math, absolute, algorithm]
 
 {% include callout.html content="<strong>Problem:</strong><br/> You are given an interger I. You need to print the absolute value of the interger I." type="primary" %} 
 
-
+## Solution
 ```csharp
 public int AbsoluteValue(int input)
 {
