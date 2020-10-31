@@ -13,3 +13,9 @@ summary: This is a one stop website that provides solutions to a wide variety of
 
 Follow these instructions to build the theme.
 
+
+
+{% highlight csharp %}
+Console.WriteLine("Hello World");
+{% endhighlight %}
+

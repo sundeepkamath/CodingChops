@@ -23,24 +23,22 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
+      - title: Algorithms
+        output: web, pdf
 
-    - title: Introduction
-      url: /mydoc_introduction.html
-      output: web, pdf
+        subfolders:
+        - title: Math
+          output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
+          subfolderitems:
+          - title: Absolute
+            url: /math_absolute.html
+            output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
+        # - title: Data Structures
+        #   output: web, pdf
 
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
+
+
+        
 
