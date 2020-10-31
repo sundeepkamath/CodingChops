@@ -13,7 +13,7 @@ last_updated: October 31, 2020
 ## Solution 1
 
 ```csharp
-public long Factorial(int val)
+public int Factorial(int val)
 {
     if (val == 0 || val == 1)
         return 1;
