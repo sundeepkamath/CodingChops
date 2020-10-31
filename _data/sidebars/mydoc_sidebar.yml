@@ -40,6 +40,10 @@ entries:
             url: /math_factorial.html
             output: web, pdf
 
+          - title: Prime
+            url: /math_prime.html
+            output: web, pdf
+
         # - title: Data Structures
         #   output: web, pdf
 
