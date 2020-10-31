@@ -38,7 +38,7 @@ folder: algorithms
                <div class="panel panel-default">
                <div class="panel-heading">Math</div>
                <div class="panel-body">
-                  If you're getting started with Jekyll, see the links in this section. It will take you from the beginning level to comfortable. 
+                   Basic mathematical problems
                   <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}
@@ -53,7 +53,7 @@ folder: algorithms
     
     </div>
    
-
+<!-- 
     <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["content-types"]'>
 
         <div class="panel panel-default">
@@ -153,7 +153,7 @@ folder: algorithms
             </div>
 
     </div>
-          
+           -->
       <div class="col-xs-6 col-sm-4 col-md-1 shuffle_sizer"></div>          
 
 
