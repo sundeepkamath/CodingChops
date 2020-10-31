@@ -10,7 +10,8 @@ last_updated: October 31, 2020
 
 {% include callout.html content="<strong>Problem:</strong><br/> You are given an interger I. You need to print the absolute value of the interger I." type="primary" %} 
 
-<span class="label label-success">Solution 1</span>
+## Solution
+
 ```csharp
 public int AbsoluteValue(int input)
 {

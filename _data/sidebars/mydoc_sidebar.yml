@@ -36,6 +36,10 @@ entries:
             url: /math_absolute.html
             output: web, pdf
 
+          - title: Factorial
+            url: /math_factorial.html
+            output: web, pdf
+
         # - title: Data Structures
         #   output: web, pdf
 
