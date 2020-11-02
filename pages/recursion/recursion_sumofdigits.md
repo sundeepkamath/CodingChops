@@ -16,11 +16,9 @@ last_updated: November 02, 2020
 public int SumOfDigits(int num)
 {
     if (num < 10)
-        return 1;
-    else
-    {
-        return 1 + SumOfDigits(num / 10);
-    }
+        return num;
+
+    return (num % 10) + SumOfDigits(num / 10);
 }
 ```
 
