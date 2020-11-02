@@ -7,3 +7,6 @@ allowed-tags:
   - absolute
   - factorial
   - prime
+  - recursion
+  - sumofdigits
+  - numberofdigits

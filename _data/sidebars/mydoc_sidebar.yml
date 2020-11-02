@@ -44,6 +44,17 @@ entries:
             url: /math_prime.html
             output: web, pdf
 
+        - title: Recursion
+          output: web, pdf
+
+          subfolderitems:
+          - title: Sum Of Digits
+            url: /recursion_sumofdigits.html
+            output: web, pdf
+
+          - title: Number Of Digits
+            url: /recursion_numberofdigits.html
+            output: web, pdf
         # - title: Data Structures
         #   output: web, pdf
 
